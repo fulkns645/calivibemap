@@ -1,12 +1,12 @@
 {
-    "id": 11,
-    "name": "Juan David Pérez",
-    "lat": 3.451640,
-    "lng": -76.531980,
-    "color": "#4ECDC4",
-    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
-    "likes": ["Café", "React.js", "Ciclismo", "Naturaleza"],
-    "dislikes": ["Bugs en Prod", "Ruido"],
+    "id": 2,
+    "name": "Juan David Solart",
+    "lat": 3.37417,
+    "lng": -76.54121,
+    "color": "#03f2ffff",
+    "photo": "https://i.scdn.co/image/ab67616d00001e020e1a20117e8ba38c8a3d0972",
+    "likes": ["Café", "React.js", "Gym", "Naturaleza"],
+    "dislikes": ["Hotfix en Prod", "Ruido"],
     "socialMedia": "@juandev_js",
     "quote": "Commitea rápido, refactoriza después.",
     "funFact": "Ha tomado más café que líneas de código ha escrito (y eso ya es mucho decir).",
@@ -14,9 +14,9 @@
     "superpower": "Debuggear sin necesitar Stack Overflow",
     "topLike": { "name": "Café", "rating": 5 },
     "favoriteTool": { "name": "React.js", "icon": "fa-brands fa-react" },
-    "song": { "title": "Robot Rock", "artist": "Daft Punk", "url": "https://open.spotify.com/search/Robot%20Rock%20Daft%20Punk" },
+    "song": { "title": "Critical Darling", "artist": "Slikpnot", "url": "https://open.spotify.com/intl-es/track/3XFaGEb6daqdj39ThpJ2XI"},
     "topSpots": [
-        "Bendito Café - su oficina no oficial",
+        "Smart fit  - Unicentro ",
         "Ciclovía CAM - rutas de domingo",
         "El Peñón - mirador favorito"
     ]
