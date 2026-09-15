@@ -1,0 +1,24 @@
+{
+    "id": 77,
+    "name": "Jose Antonio Rodriguez Castelblanco",
+    "lat": 3.450226051166949,
+    "lng": -76.49609427650894,
+    "color": "#DA9F8",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocLZVvcF6c4cNeEUGN6fVys_XKTSVvpJwUwBg6QRPGO7HisjZ8M=s60-c",
+    "likes": ["gaming", "Dibujar", "Angular 21", "hardware", "diseño de interfaces"],
+    "dislikes": ["Bugs en Prod", "la textura blanda"],
+    "socialMedia": "antonio_rc01",
+    "quote": "La creatividad es la inteligencia divirtiéndose.",
+    "funFact": "Me gusta dibujar y hacer interfaces, pero no me gusta la textura blanda.xd",
+    "vibe": "relajao y creativo",
+    "superpower": "dibujar sin lineas guias ",
+    "topLike": { "name": "Dibujar", "rating": 5 },
+    "favoriteTool": { "name": "Angular 21", "icon": "fa-brands fa-angular" },
+    "song": { "title": "por que te mientes", "artist": "Bryant mayers", "url": "https://open.spotify.com/intl-es/track/0Ks2NJH2PCxyWAFPlI4p9B?si=c8704eb87ff941ac" },
+    "topSpots": [
+        "centro",
+        "univalle",
+        "kingpapa"
+        
+    ]
+}
