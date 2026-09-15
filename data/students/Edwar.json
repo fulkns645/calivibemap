@@ -1,0 +1,23 @@
+{
+    "id": 23,
+    "name": "Jhon Edwar Candelo",
+    "lat": 3.567925,
+    "lng": -76.484860,
+    "color": "#4ECDC4",
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["Gaming", "Electronics", "Football", "Basketball"],
+    "dislikes": ["Ruido"],
+    "socialMedia": "@jhone_z7",
+    "quote": "Un día sin reir es un día perdido.",
+    "funFact": "La PS5 está mal diseñada",
+    "vibe": "Reparando algo durante todo el día, y jugando videojuegos por la noche",
+    "superpower": "Beatboxing",
+    "topLike": { "name": "NVIDIA", "rating": 5 },
+    "favoriteTool": { "name": "Davinci Resolve", "icon": "fa-brands fa-react" },
+    "song": { "title": "P.Y.T", "artist": "Michael Jackson", "url": "https://music.youtube.com/watch?v=y32ejtuxSjM" },
+    "topSpots": [
+        "Rodizio San Fernando - Restaurante de carnes",
+        "Unicentro - Centro comercial",
+        "Univalle - Lugar de estudio"
+    ]
+}
