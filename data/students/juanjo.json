@@ -1,11 +1,22 @@
-
 {
     "id": 89,
     "name": "Juan José Bolaños",
-    "lat": 3.1151640,
-    "lng": -72.531980,
-    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
-    "likes": ["stocks", "correr", "Ciclismo"],
-    "dislikes": ["Bugs en Prod", "Ruido"],
-    "socialMedia": "@Nomka0"
+    "lat": 3.372781,
+    "lng": -76.535106,
+    "color": "#8216a6",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocKV_4Axr6RWtrKNUnmxYBu4jwFC_kbSFW5J6a2-VqAd_pVH6msSFA=s120-c",
+    "likes": ["salsa","leer", "correr", "escuchar música"],
+    "dislikes": ["hacer push a main", "la mazamorra"],
+    "socialMedia": "@josejuanj0",
+    "quote": "la vida es una lenteja, o la tomas o la dejas",
+    "vibe": "recochero profesional",
+    "superpower": "teletransportación",
+    "topLike": { "name": "correr", "rating": 4 },
+    "favoriteTool": { "name": "martillo", "icon": "fa-brands fa-python" },
+    "song": { "title": "veridis quo", "artist": "daft punk", "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds?si=7d360de2793a4b7b" },
+    "topSpots": [
+        "univalle",
+        "cerrito",
+        "palmira"
+    ]
 }
