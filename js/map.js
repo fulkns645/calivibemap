@@ -101,17 +101,12 @@ async function initMap() {
         // Fetch all student files in parallel
         const studentsData = await Promise.all(
             fileList.map(async (fileName) => {
-                try {
-                    const response = await fetch(`data/students/${fileName}`);
-                    if (!response.ok) {
-                        console.warn(`Failed to load student file: ${fileName}`);
-                        return null;
-                    }
-                    return await response.json();
-                } catch (err) {
-                    console.warn(`Error parsing student file ${fileName}:`, err);
+                const response = await fetch(`data/students/${fileName}`);
+                if (!response.ok) {
+                    console.warn(`Failed to load student file: ${fileName}`);
                     return null;
                 }
+                return response.json();
             })
         );
 
