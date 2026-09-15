@@ -1,0 +1,23 @@
+{
+    "id": 2,
+    "name": "Juan David Solart",
+    "lat": 3.37417,
+    "lng": -76.54121,
+    "color": "#03f2ffff",
+    "photo": "https://i.scdn.co/image/ab67616d00001e020e1a20117e8ba38c8a3d0972",
+    "likes": ["Café", "React.js", "Gym", "Naturaleza"],
+    "dislikes": ["Hotfix en Prod", "Ruido"],
+    "socialMedia": "@juandev_js",
+    "quote": "Commitea rápido, refactoriza después.",
+    "funFact": "Ha tomado más café que líneas de código ha escrito (y eso ya es mucho decir).",
+    "vibe": "Nocturno cafeinado, commits a las 2am",
+    "superpower": "Debuggear sin necesitar Stack Overflow",
+    "topLike": { "name": "Café", "rating": 5 },
+    "favoriteTool": { "name": "React.js", "icon": "fa-brands fa-react" },
+    "song": { "title": "Critical Darling", "artist": "Slikpnot", "url": "https://open.spotify.com/intl-es/track/3XFaGEb6daqdj39ThpJ2XI"},
+    "topSpots": [
+        "Smart fit  - Unicentro ",
+        "Ciclovía CAM - rutas de domingo",
+        "El Peñón - mirador favorito"
+    ]
+}
