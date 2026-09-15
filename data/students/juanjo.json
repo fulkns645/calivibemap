@@ -1,0 +1,11 @@
+
+{
+    "id": 89,
+    "name": "Juan José Bolaños",
+    "lat": 3.1151640,
+    "lng": -72.531980,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["stocks", "correr", "Ciclismo"],
+    "dislikes": ["Bugs en Prod", "Ruido"],
+    "socialMedia": "@Nomka0"
+}
