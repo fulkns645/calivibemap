@@ -1,0 +1,22 @@
+{
+    "id": 645,
+    "name": "Juan Sebastian Ospina Maya",
+    "lat": 3.489263053315764,
+    "lng": -76.49789134589865,
+    "color": "#000000",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocJSA23n2dtodjwH_wAvDvV0Gl8lwpGakXp1B1vXL5zyhHY7kVyD=s360-c-no",
+    "likes": ["Hamburguesa", "BMX", "Videojuegos", "Motos", "PC Master Race"],
+    "dislikes": ["Acelgas", "El Calor"],
+    "socialMedia": "@fulkns645",
+    "quote": "Siempre en busca del siguiente nivel: en el código, el BMX y los videojuegos.",
+    "funFact": "¡Buenos días, estrellitas, la Tierra les dice hola!",
+    "vibe": "Jugar con una buena playlist",
+    "superpower": "Platinar juegos en Steam",
+    "topLike": { "name": "Videojuegos", "rating": 5 },
+    "song": { "title": "Love Sosa", "artist": "Chief Keef", "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1?si=SASQPHaSRKWMyspsOx_I8Q&utm_source=copy-link" },
+    "topSpots": [
+        "Parcha2",
+        "Pista de BMX Guaduales",
+        "Mi casa en mi PC"
+    ]
+}
