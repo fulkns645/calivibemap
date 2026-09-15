@@ -1,0 +1,40 @@
+{
+    "id": 444,
+    "name": "Gabriel de Jesus Arango",
+    "lat": 3.372249471941918,
+    "lng": -76.53538901715427,
+    "color": "#326CE5",
+    "photo": "https://avatars.githubusercontent.com/u/8519470?v=4",
+    "likes": [
+        "Bicicletas",
+        "Produccion",
+        "Golang"
+    ],
+    "dislikes": [
+        "Frío",
+        "Bachata"
+    ],
+    "socialMedia": "@____gabe_____",
+    "quote": "Párchese",
+    "funFact": "",
+    "vibe": "coding",
+    "superpower": "autismo",
+    "topLike": {
+        "name": "Bicicletas",
+        "rating": 4
+    },
+    "favoriteTool": {
+        "name": "Kubernetes",
+        "icon": "fa-pen-nib"
+    },
+    "song": {
+        "title": "Love U",
+        "artist": "Shifty",
+        "url": "https://open.spotify.com/intl-es/track/0bqQSxN7x5YAKhN1uTlQGj"
+    },
+    "topSpots": [
+        "Univalle",
+        "Pance",
+        "Loma de la cruz"
+    ]
+}
